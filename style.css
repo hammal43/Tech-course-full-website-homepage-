@@ -1,0 +1,60 @@
+.logo img{
+  height: 100px;
+  width: 80px;
+  float: left;
+}
+.All .main{
+  width: 100%;
+}
+.All .welcome p{
+  font-size: 23px;
+}
+.All .footer a{
+  color: grey;
+  text-decoration: none;
+}
+.All .footer p{
+  color: grey;
+}
+.All .footer p:hover{
+  color: white;
+  background-color: grey;
+}
+.All .footer a:hover{
+  color: white;
+  background-color: grey;
+}
+
+.All .navbar header a{
+  color: white;
+  text-decoration: none;
+}
+.All .navbar header a:hover{
+  color: black;
+  background-color: grey;
+}
+  
+}
+.All{
+  background-color: #F5F5F5;
+}
+.All .main h3{
+  font-size: 24px;
+}
+.All .main a{
+color: white;
+text-decoration: none;
+}
+.All .main p{
+  text-align: justify;
+  font-size: 20px;
+
+}
+.All .main  img{
+  height: 100%;
+  width: 100%;
+}
+.All .main a:hover{
+  background-color: white;
+  color: blue;
+}
